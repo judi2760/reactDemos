@@ -6,8 +6,8 @@
 
 ## Prerequisites:
 
-- node
-- webpack
+- node (https://nodejs.org/es/download/package-manager/)
+- webpack (https://webpack.js.org/guides/installation/) 
 
 ## How to use
 ```
